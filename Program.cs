@@ -18,5 +18,12 @@ namespace MultiThreadingNiX
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+
+
+    }
+
+    class Emp
+    {
+
     }
 }
